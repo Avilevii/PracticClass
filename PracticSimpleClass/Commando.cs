@@ -32,7 +32,7 @@ namespace PracticSimpleClass
             Status = "Hide";
             Console.WriteLine($"The soldier {Name} is: {Status}");
         }
-        public void Attack()
+        public virtual void Attack()
         {
             Console.WriteLine($"The Attack is:{CodeName}");
         }

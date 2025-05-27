@@ -10,7 +10,16 @@ namespace PracticSimpleClass
     {
         static void Main(string[] args)
         {
-            Commando c = new Commando("Avi","Levi", "Hide" );
+            Commando s = new SeaCommando("Yossy", "Madar", "Attack");
+            Commando a = new AirCommando("Aaron", "Madar", "Walk");
+            Commando c = new Commando("Avi", "Levi", "Hide");
+            Commando[] commandos = new Commando[] { s, a, c };
+
+            foreach (var command in commandos)
+            {
+                command.Attack();
+            }
+
             Weapon w = new Weapon("Glook", "Austria", 13);
             Console.WriteLine(c.CodeName);
             c.CodeName = "gurviz";
