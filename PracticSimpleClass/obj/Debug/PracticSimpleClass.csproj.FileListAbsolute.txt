@@ -1,0 +1,8 @@
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\bin\Debug\PracticSimpleClass.exe.config
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\bin\Debug\PracticSimpleClass.exe
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\bin\Debug\PracticSimpleClass.pdb
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\obj\Debug\PracticSimpleClass.csproj.AssemblyReference.cache
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\obj\Debug\PracticSimpleClass.csproj.CoreCompileInputs.cache
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\obj\Debug\PracticSimpleClass.exe
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\obj\Debug\PracticSimpleClass.pdb
+C:\Users\yaelg\source\repos\PracticSimpleClass\PracticSimpleClass\obj\Debug\PracticSimpleClass.exe.config
